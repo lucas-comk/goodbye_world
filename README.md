@@ -2,7 +2,8 @@ Tiny little python thing I did so my Github profile doesn't remain as empty as a
 
 ## Usage
 
-Open the terminal on the directory you put the file
-`cd the/path/you/put/the/file`
-Then execute it
-`python3 goodbye_world.py`
+Open the terminal on the directory you put the file: 
+ `cd the/path/you/put/the/file`
+
+Then execute it: 
+ `python3 goodbye_world.py`
