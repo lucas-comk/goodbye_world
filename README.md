@@ -1,4 +1,4 @@
-Tiny little python thing I did so my Github profile doesn't remain as empty as a 10:30am Wednesday bus ride. It works on all systems that use the Linux kernel, I guess??
+Tiny little python thing I did so my Github profile doesn't remain as empty as a 10:30am Wednesday bus ride. It works on Debian and derivatives.
 
 ## Usage
 
