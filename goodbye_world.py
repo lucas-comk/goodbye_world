@@ -1,7 +1,6 @@
 import time
-import subprocess
-from subprocess import call
+import os
 
 print("Goodbye world!")
 time.sleep(5)
-call("shutdown -h now", shell=True)
+os.system('shutdown /p /f' if os.name == 'nt' else 'shutdown -h now')
